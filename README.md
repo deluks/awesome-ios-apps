@@ -10,6 +10,7 @@
 - [Weather](#weather)
 - [Reading](#reading)
 - [Social Media](#social-media)
+- [Contribute](#contribute)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
