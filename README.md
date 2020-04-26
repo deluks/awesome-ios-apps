@@ -3,8 +3,16 @@
 > A curated list of awesome apps for the iOS ecosystem, which includes iOS, iPadOS, WatchOS and tvOS.
 
 ## Contents
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Productivity](#productivity)
+- [Weather](#weather)
+- [Reading](#reading)
+- [Social Media](#social-media)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Productivity
 
