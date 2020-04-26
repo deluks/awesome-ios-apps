@@ -38,6 +38,9 @@ A Wikipedia reader with a focus on great layout and typography. ![][iphone]![][i
 
 - [Twitterific](https://apps.apple.com/de/app/twitterrific-tweet-your-way/id580311103) - Elegant and clutter-free Twitter client with many power user features. ![][iphone]![][ipad]
 
+## Contribute
+To truly be awesome, this list needs you! If you know an app that you believe should be on this list, please [contribute](contributing.md).
+
 [iphone]: /media/iphone.svg
 [ipad]: /media/ipad.svg
 [watch]: /media/watch.svg
