@@ -28,7 +28,7 @@
 
 ## Weather
 
-- [Carrot Weather](https://apps.apple.com/de/app/carrot-weather/id961390574) - Weather forecasts presented by a ~~snarky~~ homicidal AI. Featuring various data sources, Achievements, ans hidden locations. ![][iphone]![][ipad]![][watch]
+- [Carrot Weather](https://apps.apple.com/de/app/carrot-weather/id961390574) - Weather forecasts presented by a ~~snarky~~ homicidal AI. Featuring various data sources, achievements and hidden locations. ![][iphone]![][ipad]![][watch]
 
 ## Reading
 
