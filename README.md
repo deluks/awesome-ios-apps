@@ -1,6 +1,6 @@
 # Awesome iOS Apps
 
-> A curated list of awesome apps for the iOS ecosystem, which includes iOS, iPadOS, WatchOS and tvOS.
+> A curated list of awesome apps for the iOS ecosystem, which includes iPhone ![][iphone], iPad ![][ipad], Watch ![][watch] and TV ![][tv].
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
