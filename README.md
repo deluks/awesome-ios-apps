@@ -22,11 +22,15 @@
 
 - [Bring](https://apps.apple.com/de/app/bring-shopping-list-recipes/id580669177) - Shared shopping lists, with integrated recipes and loyalty cards. ![][iphone]![][ipad]![][watch]
 
-- [Supershift](https://itunes.apple.com/app/supershift/id1104165041?mt=8) - Calendar app for managing shift working schedules. ![][iphone]![][ipad]![][watch] ![][iap]
+- [Cardhop](https://apps.apple.com/de/app/cardhop/id1448744070) - Contacts manager app on steroids with a powerful natural language parsing engine ![][iphone]![][ipad]
 
 - [Fantastical](https://flexibits.com/fantastical/download-ios) - Extensive calendar and tasks app with tons of features. ![][iphone]![][ipad]![][watch] ![][subscription]
 
-- [Cardhop](https://apps.apple.com/de/app/cardhop/id1448744070) - Contacts manager app on steroids with a powerful natural language parsing engine ![][iphone]![][ipad]
+- [Supershift](https://itunes.apple.com/app/supershift/id1104165041?mt=8) - Calendar app for managing shift working schedules. ![][iphone]![][ipad]![][watch] ![][iap]
+
+- [Things](https://apps.apple.com/de/app/things-3/id904237743) - Beautiful and simple, yet powerful task manager. ![][iphone]![][watch]
+	- [Things for iPad](https://apps.apple.com/de/app/things-3-for-ipad/id904244226) ![][ipad]
+
 
 ## Weather
 
