@@ -31,6 +31,7 @@
 
 - [Overcast](https://apps.apple.com/de/app/overcast/id888422857) - Podcast player for podcast enthusiasts, including powerful features like Smart Speed and Voice Boost. ![][iphone]![][ipad]![][watch] ![][subscription]
 
+- [Pixelmator Photo](https://apps.apple.com/de/app/pixelmator-photo/id1444636541) - Photo editor with powerful tools to adjust your photos. ![][ipad]
 
 ## Productivity
 
@@ -41,6 +42,8 @@
 - [Bring](https://apps.apple.com/de/app/bring-shopping-list-recipes/id580669177) - Shared shopping lists, with integrated recipes and loyalty cards. ![][iphone]![][ipad]![][watch]
 
 - [Cardhop](https://apps.apple.com/de/app/cardhop/id1448744070) - Contacts manager app on steroids with a powerful natural language parsing engine ![][iphone]![][ipad]
+
+- [Drafts](https://apps.apple.com/de/app/drafts/id1236254471) - Markdown Text-Editor with large directory for automation. ![][iphone]![][ipad]![][subscription]
 
 - [Fantastical](https://flexibits.com/fantastical/download-ios) - Extensive calendar and tasks app with tons of features. ![][iphone]![][ipad]![][watch] ![][subscription]
 
