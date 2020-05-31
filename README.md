@@ -1,4 +1,4 @@
-# Awesome iOS Apps
+<div align="center"><img src="media/awesome-iOS-apps.svg" alt="Awesome iOS Apps" /></div>
 
 > A curated list of awesome apps for the iOS ecosystem, which includes iPhone ![][iphone], iPad ![][ipad], Watch ![][watch] and TV ![][tv].
 
