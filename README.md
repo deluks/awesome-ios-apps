@@ -22,6 +22,8 @@
 
 - [Pillow](https://apps.apple.com/de/app/pillow-automatic-sleep-tracker/id878691772) - Track the quality and duration of your sleep automatically. ![][iphone]![][ipad]![][watch] ![][iap]
 
+- [SproutGuard](https://apps.apple.com/app/id6768664921?ct=awesome-ios) - Block distracting apps on yourself and build daily focus streaks, with no account and everything kept on device. ![][iphone]![][ipad] ![][subscription]
+
 
 ## Multimedia
 
