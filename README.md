@@ -22,7 +22,7 @@
 
 - [Pillow](https://apps.apple.com/de/app/pillow-automatic-sleep-tracker/id878691772) - Track the quality and duration of your sleep automatically. ![][iphone]![][ipad]![][watch] ![][iap]
 
-- [SproutGuard](https://apps.apple.com/us/app/sproutguard-screen-time-detox/id6768664921) - Block distracting apps on yourself and build daily focus streaks, with no account and everything kept on device. ![][iphone]![][ipad] ![][subscription]
+- [SproutGuard](https://apps.apple.com/app/id6768664921?ct=awesome-list) - Block distracting apps on yourself and build daily focus streaks, with no account and everything kept on device. ![][iphone]![][ipad] ![][subscription]
 
 
 ## Multimedia
