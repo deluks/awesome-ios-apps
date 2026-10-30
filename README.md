@@ -47,6 +47,8 @@
 
 - [Fantastical](https://flexibits.com/fantastical/download-ios) - Extensive calendar and tasks app with tons of features. ![][iphone]![][ipad]![][watch] ![][subscription]
 
+- [Ripple](https://ripplefocus.github.io/) - Screen Time / focus app for iPhone: block Shorts, Reels and WeChat Channels, keep messaging, OS-level uninstall lock and parent unlock. ![][iphone]
+
 - [ScanPro](https://apps.apple.com/de/app/scanpro-app-docs-pdf-ocr/id834854351) - Née "Scanbot", fast document scanner with extensive integration of cloud services. ![][iphone]![][ipad] ![][subscription]
 
 - [Supershift](https://itunes.apple.com/app/supershift/id1104165041?mt=8) - Calendar app for managing shift working schedules. ![][iphone]![][ipad]![][watch] ![][iap]
