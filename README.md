@@ -38,6 +38,8 @@
 - [1Blocker](https://apps.apple.com/de/app/1blocker-for-safari/id1365531024) - Blocking ads and trackers, with many predefined rules and the option to define custom ones. ![][iphone]![][ipad] ![][subscription]
 
 - [1Password](https://apps.apple.com/de/app/1password-password-manager/id568903335) - Beautiful and well integrated password manager. ![][iphone]![][ipad]![][watch] ![][subscription]
+- [Ari](https://apps.apple.com/us/app/ari-personal-assistant/id6831932629) - Voice personal assistant: calls you back at the right time, fills Reminders and Calendar, prepares calls and WhatsApp messages, runs Shortcuts. ![][iphone]
+
 
 - [Bring](https://apps.apple.com/de/app/bring-shopping-list-recipes/id580669177) - Shared shopping lists, with integrated recipes and loyalty cards. ![][iphone]![][ipad]![][watch]
 
